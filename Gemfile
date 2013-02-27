@@ -17,6 +17,14 @@ gem 'mysql2'
 
 gem 'json'
 
+#gem "therubyracer"
+gem "less-rails"
+gem "twitter-bootstrap-rails"
+
+#group :assets do
+#  gem 'twitter-bootstrap-rails'
+#end
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
